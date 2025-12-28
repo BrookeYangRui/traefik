@@ -1,0 +1,11 @@
+# GitHub token (敏感信息)
+config/.github_token
+
+# 搜索结果 (可能包含敏感信息)
+results/*
+
+# 临时文件
+*.tmp
+*.log
+*.pyc
+__pycache__/
